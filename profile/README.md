@@ -9,3 +9,7 @@
 Als webbureau bedenken, ontwerpen, realiseren en optimaliseren wij slimme websites en webapplicaties. Online oplossingen welke nieuwe klanten opleveren, werk uit handen nemen, goed worden gevonden door Google, makkelijk aanpasbaar zijn en inzicht geven in uw doelgroep en hun gedrag.
 
 <img width="1219" alt="image" src="https://user-images.githubusercontent.com/385764/222163907-0aec1333-7f29-44ee-b18d-896039948a34.png">
+
+* [vormkracht10.nl](https://vormkracht10.nl/)
+* [instagram.com/vormkracht10](https://www.instagram.com/vormkracht10/)
+* [linkedin.com/vormkracht10](linkedin.com/company/vormkracht10/)
