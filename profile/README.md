@@ -12,4 +12,5 @@ Als webbureau bedenken, ontwerpen, realiseren en optimaliseren wij slimme websit
 
 * [vormkracht10.nl](https://vormkracht10.nl/)
 * [instagram.com/vormkracht10](https://www.instagram.com/vormkracht10/)
+* [twitter.com/vormkracht10](https://www.twitter.com/vormkracht10/)
 * [linkedin.com/vormkracht10](linkedin.com/company/vormkracht10/)
