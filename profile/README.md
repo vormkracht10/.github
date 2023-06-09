@@ -17,8 +17,8 @@ Open Source packages:
 * And [much more...](https://github.com/orgs/vormkracht10/repositories)
 
 Wanna know more? Connect with us!
-* [Website](https://vormkracht10.nl/)
-* [Vacatures](https://vormkracht10.nl/vacatures)
+* [Visit our website](https://vormkracht10.nl/)
+* [View our vacancies](https://vormkracht10.nl/vacatures)
 * [Instagram](https://www.instagram.com/vormkracht10/)
 * [Twitter](https://www.twitter.com/vormkracht10/)
 * [LinkedIn](linkedin.com/company/vormkracht10/)
