@@ -21,6 +21,6 @@ Wanna know more? Connect with us!
 * [View our vacancies](https://vormkracht10.nl/vacatures)
 * [Instagram](https://www.instagram.com/vormkracht10/)
 * [Twitter](https://www.twitter.com/vormkracht10/)
-* [LinkedIn](linkedin.com/company/vormkracht10/)
+* [LinkedIn](https://linkedin.com/company/vormkracht10/)
 
 <img width="1134" alt="image" src="https://ucarecdn.com/0bea9921-f16b-4b4c-86ee-775630e5d119/-/scale_crop/1134x512/smart/-/format/auto/-/quality/smart/visual9.jpg">
