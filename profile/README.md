@@ -1,5 +1,5 @@
 
-<h1 align="center"><a href="https://vormkracht10.nl"><img src="https://vormkracht10.nl/cdn/13f1e3fb-15c8-4655-bf9b-a85899694c45/-/quality/smart/-/resize/300x/vk10-github.png)" alt="Vormkracht10 logo" width="200"></a></h1>
+<h1 align="center"><a href="https://vormkracht10.nl"><img src="https://vormkracht10.nl/cdn/13f1e3fb-15c8-4655-bf9b-a85899694c45/-/quality/smart/-/resize/300x/vk10-github.png)" alt="Vormkracht10" width="200"></a></h1>
 <h4 align="center">Digital Agency from Nijmegen, The Netherlands</h4>
 
 ## About
