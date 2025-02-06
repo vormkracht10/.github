@@ -1,13 +1,9 @@
 
-<h1 align="center">
-  <a href="https://vormkracht10.nl"><img src="https://vormkracht10.nl/cdn/13f1e3fb-15c8-4655-bf9b-a85899694c45/-/quality/smart/-/resize/300x/vk10-github.png)" alt="Vormkracht10 logo" width="200"></a>
-  <br />
-  Vormkracht10
-</h1>
-<h4 align="center">Web agency from Nijmegen, The Netherlands</h4>
+<h1 align="center"><a href="https://vormkracht10.nl"><img src="https://vormkracht10.nl/cdn/13f1e3fb-15c8-4655-bf9b-a85899694c45/-/quality/smart/-/resize/300x/vk10-github.png)" alt="Vormkracht10 logo" width="200"></a></h1>
+<h4 align="center">Digital Agency from Nijmegen, The Netherlands</h4>
 
 ## About
-We are [Vormkracht10](https://vormkracht10.nl) and create online solutions which people experience as nice.
+We are [Vormkracht10](https://vormkracht10.nl) and we craft high quality Laravel & Filament web apps.
 
 Open Source packages:
 * [Laravel SEO Scanner](https://github.com/vormkracht10/laravel-seo-scanner)
